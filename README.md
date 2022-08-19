@@ -165,8 +165,8 @@
 
 ### More Methods And New Data Types
 
-- [ ] - 123 - Set Data Type And Methods
-- [ ] - 124 - Set vs WeakSet And Garbage Collector
+- [x] `completed` - 123 - Set Data Type And Methods
+- [x] `completed` - 124 - Set vs WeakSet And Garbage Collector
 - [ ] - 125 - Map Data Type vs Object Full Comparison
 - [ ] - 126 - Map Methods
 - [ ] - 127 - Map vs WeakMap
