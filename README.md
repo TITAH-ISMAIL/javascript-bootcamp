@@ -3,7 +3,7 @@
 
 # JavaScript Bootcamp Content [ 188 Videos ]
 
-![100%](https://progress-bar.dev/66/?title=Progress)
+![100%](https://progress-bar.dev/70/?title=Progress)
 
 ### Introduction
 
@@ -167,13 +167,13 @@
 
 - [x] `completed` - 123 - Set Data Type And Methods
 - [x] `completed` - 124 - Set vs WeakSet And Garbage Collector
-- [ ] - 125 - Map Data Type vs Object Full Comparison
-- [ ] - 126 - Map Methods
-- [ ] - 127 - Map vs WeakMap
-- [ ] - 128 - Array.from Method
-- [ ] - 129 - Array.copyWithin Method
-- [ ] - 130 - Array.some Method
-- [ ] - 131 - Array.every Method
+- [x] `completed` - 125 - Map Data Type vs Object Full Comparison
+- [x] `completed` - 126 - Map Methods
+- [x] `completed` - 127 - Map vs WeakMap
+- [x] `completed` - 128 - Array.from Method
+- [x] `completed` - 129 - Array.copyWithin Method
+- [x] `completed` - 130 - Array.some Method
+- [x] `completed` - 131 - Array.every Method
 - [ ] - 132 - Spread Syntax And Use Cases
 - [ ] - 133 - Section Challenge
 
