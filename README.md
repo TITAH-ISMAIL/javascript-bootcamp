@@ -3,7 +3,7 @@
 
 # JavaScript Bootcamp Content [ 188 Videos ]
 
-![100%](https://progress-bar.dev/70/?title=Progress)
+![100%](https://progress-bar.dev/73/?title=Progress)
 
 ### Introduction
 
@@ -174,15 +174,15 @@
 - [x] `completed` - 129 - Array.copyWithin Method
 - [x] `completed` - 130 - Array.some Method
 - [x] `completed` - 131 - Array.every Method
-- [ ] - 132 - Spread Syntax And Use Cases
-- [ ] - 133 - Section Challenge
+- [x] `completed` - 132 - Spread Syntax And Use Cases
+- [x] `completed` - 133 - Section Challenge
 
 ### Regular Expressions
 
-- [ ] - 134 - Intro And What Is Regular Expression ?
-- [ ] - 135 - RegExp Modifiers
-- [ ] - 136 - RegExp Ranges Part 1
-- [ ] - 137 - RegExp Ranges Part 2
+- [x] `completed` - 134 - Intro And What Is Regular Expression ?
+- [x] `completed` - 135 - RegExp Modifiers
+- [x] `completed` - 136 - RegExp Ranges Part 1
+- [x] `completed` - 137 - RegExp Ranges Part 2
 - [ ] - 138 - RegExp Character Classes Part 1
 - [ ] - 139 - RegExp Character Classes Part 2
 - [ ] - 140 - RegExp Quantifiers Part 1
