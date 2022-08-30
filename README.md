@@ -3,7 +3,7 @@
 
 # JavaScript Bootcamp Content [ 188 Videos ]
 
-![100%](https://progress-bar.dev/78/?title=Progress)
+![100%](https://progress-bar.dev/80/?title=Progress)
 
 ### Introduction
 
@@ -195,12 +195,12 @@
 
 ### Object Oriented Programming
 
-- [ ] - 147 - Object Oriented Programming Introduction
-- [ ] - 148 - Constructor Function Introduction
-- [ ] - 149 - Constructor Function New Syntax
-- [ ] - 150 - Constructor Function Deal With Properties & Methods
-- [ ] - 151 - Constructor Function Update Properties & Built In Constructors
-- [ ] - 152 - Class Static Properties And Methods
+- [x] `completed - 147 - Object Oriented Programming Introduction
+- [x] `completed - 148 - Constructor Function Introduction
+- [x] `completed - 149 - Constructor Function New Syntax
+- [x] `completed - 150 - Constructor Function Deal With Properties & Methods
+- [x] `completed - 151 - Constructor Function Update Properties & Built In Constructors
+- [x] `completed - 152 - Class Static Properties And Methods
 - [ ] - 153 - Class Inheritance
 - [ ] - 154 - Class Encapsulation & Private Properties
 - [ ] - 155 - Prototype Introduction
