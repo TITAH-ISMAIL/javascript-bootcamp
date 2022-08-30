@@ -183,15 +183,15 @@
 - [x] `completed` - 135 - RegExp Modifiers
 - [x] `completed` - 136 - RegExp Ranges Part 1
 - [x] `completed` - 137 - RegExp Ranges Part 2
-- [ ] - 138 - RegExp Character Classes Part 1
-- [ ] - 139 - RegExp Character Classes Part 2
-- [ ] - 140 - RegExp Quantifiers Part 1
-- [ ] - 141 - RegExp Quantifiers Part 2
-- [ ] - 142 - RegExp Quantifiers Part 3
-- [ ] - 143 - Replace With The RegExp Pattern
-- [ ] - 144 - Form Validation Practice
-- [ ] - 145 - Test Your RegExp And Discussions
-- [ ] - 146 - RegExp Challenge
+- [x] `completed - 138 - RegExp Character Classes Part 1
+- [x] `completed - 139 - RegExp Character Classes Part 2
+- [x] `completed - 140 - RegExp Quantifiers Part 1
+- [x] `completed - 141 - RegExp Quantifiers Part 2
+- [x] `completed - 142 - RegExp Quantifiers Part 3
+- [x] `completed - 143 - Replace With The RegExp Pattern
+- [x] `completed - 144 - Form Validation Practice
+- [x] `completed - 145 - Test Your RegExp And Discussions
+- [x] `completed - 146 - RegExp Challenge
 
 ### Object Oriented Programming
 
