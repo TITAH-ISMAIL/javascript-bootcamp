@@ -5,7 +5,7 @@
 
 ![100%](https://progress-bar.dev/84/?title=Progress)
 
-### Introduction
+## Introduction
 
 - [x] `completed` - 001 - Introduction And What Is JavaScript ?
 - [x] `completed` - 002 - How To Study The Course ?
@@ -17,7 +17,7 @@
 - [x] `completed` - 008 - Console Methods And Styling And WebAPI
 - [x] `completed` - 009 - What Is ECMAScript ?
 
-### Data Types And Variables
+## Data Types And Variables
 
 - [x] `completed` - 010 - Data Types And Typeof Operator
 - [x] `completed` - 011 - Variable Introduction
@@ -44,7 +44,7 @@
 - [x] `completed` - 029 - String Methods Part 3
 - [x] `completed` - 030 - Strings Challenge
 
-### Control Flow
+## Control Flow
 
 - [x] `completed` - 031 - Comparison Operators
 - [x] `completed` - 032 - Logical Operators
@@ -56,7 +56,7 @@
 - [x] `completed` - 038 - Switch Statement
 - [x] `completed` - 039 - Switch And If Challenges
 
-### Arrays
+## Arrays
 
 - [x] `completed` - 040 - Array Big Intro
 - [x] `completed` - 041 - Using Length With Array
@@ -67,7 +67,7 @@
 - [x] `completed` - 046 - Joining Arrays And Elements
 - [x] `completed` - 047 - Arrays Challenges
 
-### Loop
+## Loop
 
 - [x] `completed` - 048 - Loop For And Concept Of Loop
 - [x] `completed` - 049 - Loop On Sequences
@@ -79,7 +79,7 @@
 - [x] `completed` - 055 - Loop Do / While
 - [x] `completed` - 056 - Loop Challenges
 
-### Functions & Scope
+## Functions & Scope
 
 - [x] `completed` - 057 - Function Intro And Basic Usage
 - [x] `completed` - 058 - Function Advanced Example
@@ -96,7 +96,7 @@
 - [x] `completed` - 069 - Scope Lexical (Static)
 - [x] `completed` - 070 - Function Arrow Challenges
 
-### Higher Order Functions And Practice
+## Higher Order Functions And Practice
 
 - [x] `completed` - 071 - Array Map
 - [x] `completed` - 072 - Array Map Practice
@@ -107,7 +107,7 @@
 - [x] `completed` - 077 - Array ForEach And Practice
 - [x] `completed` - 078 - Higher Order Functions Challenge
 
-### Objects
+## Objects
 
 - [x] `completed` - 079 - Object Intro
 - [x] `completed` - 080 - Accessing Object With Dot vs Bracket Notation
@@ -117,7 +117,7 @@
 - [x] `completed` - 084 - Create Object With Create Method
 - [x] `completed` - 085 - Create Object With Assign Method
 
-### Document Object Model [DOM]
+## Document Object Model [DOM]
 
 - [x] `completed` - 086 - What Is DOM ? And Select Elements
 - [x] `completed` - 087 - Get / Set Elements Content And Attributes
@@ -136,7 +136,7 @@
 - [x] `completed` - 100 - Add Event Listener And Event Target
 - [x] `completed` - 101 - DOM Challenge
 
-### Browser Object Model [BOM]
+## Browser Object Model [BOM]
 
 - [x] `completed` - 102 - What Is BOM ?
 - [x] `completed` - 103 - Alert, Confirm, Prompt
@@ -152,7 +152,7 @@
 - [x] `completed` - 113 - Session Storage And Use Cases
 - [x] `completed` - 114 - BOM Challenge
 
-### Destructuring 
+## Destructuring 
 
 - [x] `completed` - 115 - Destructuring Arrays Part 1
 - [x] `completed` - 116 - Destructuring Arrays Part 2
@@ -163,7 +163,7 @@
 - [x] `completed` - 121 - Destructuring Mixed Content
 - [x] `completed` - 122 - Destructuring Challenge
 
-### More Methods And New Data Types
+## More Methods And New Data Types
 
 - [x] `completed` - 123 - Set Data Type And Methods
 - [x] `completed` - 124 - Set vs WeakSet And Garbage Collector
@@ -177,7 +177,7 @@
 - [x] `completed` - 132 - Spread Syntax And Use Cases
 - [x] `completed` - 133 - Section Challenge
 
-### Regular Expressions
+## Regular Expressions
 
 - [x] `completed` - 134 - Intro And What Is Regular Expression ?
 - [x] `completed` - 135 - RegExp Modifiers
@@ -193,7 +193,7 @@
 - [x] `completed` - 145 - Test Your RegExp And Discussions
 - [x] `completed` - 146 - RegExp Challenge
 
-### Object Oriented Programming
+## Object Oriented Programming
 
 - [x] `completed` - 147 - Object Oriented Programming Introduction
 - [x] `completed` - 148 - Constructor Function Introduction
@@ -208,7 +208,7 @@
 - [x] `completed` - 157 - Object Meta Data And Descriptor Part 1
 - [x] `completed` - 158 - Object Meta Data And Descriptor Part 2
 
-### Date, Time, Generators And Modules
+## Date, Time, Generators And Modules
 
 - [ ] - 159 - Date And Time Introduction
 - [ ] - 160 - Get Date And Time
@@ -221,7 +221,7 @@
 - [ ] - 167 - Modules Import and Export
 - [ ] - 168 - Named vs Default Export And Import All
 
-### Asynchronous Programming And JSON And AJAX
+## Asynchronous Programming And JSON And AJAX
 
 - [ ] - 169 - Introduction And What Is JSON ?
 - [ ] - 170 - JSON Syntax And Compare With JavaScript
@@ -234,7 +234,7 @@
 - [ ] - 177 - Request And Response From Real API
 - [ ] - 178 - Loop On Data
 
-### Promises And API's And Training's
+## Promises And API's And Training's
 
 - [ ] - 179 - Callback Hell Or Pyramid Of Doom
 - [ ] - 180 - Promise Intro And Syntax
