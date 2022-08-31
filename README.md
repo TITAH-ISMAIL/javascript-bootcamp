@@ -3,7 +3,7 @@
 
 # JavaScript Bootcamp Content [ 188 Videos ]
 
-![100%](https://progress-bar.dev/80/?title=Progress)
+![100%](https://progress-bar.dev/84/?title=Progress)
 
 ### Introduction
 
@@ -183,30 +183,30 @@
 - [x] `completed` - 135 - RegExp Modifiers
 - [x] `completed` - 136 - RegExp Ranges Part 1
 - [x] `completed` - 137 - RegExp Ranges Part 2
-- [x] `completed - 138 - RegExp Character Classes Part 1
-- [x] `completed - 139 - RegExp Character Classes Part 2
-- [x] `completed - 140 - RegExp Quantifiers Part 1
-- [x] `completed - 141 - RegExp Quantifiers Part 2
-- [x] `completed - 142 - RegExp Quantifiers Part 3
-- [x] `completed - 143 - Replace With The RegExp Pattern
-- [x] `completed - 144 - Form Validation Practice
-- [x] `completed - 145 - Test Your RegExp And Discussions
-- [x] `completed - 146 - RegExp Challenge
+- [x] `completed` - 138 - RegExp Character Classes Part 1
+- [x] `completed` - 139 - RegExp Character Classes Part 2
+- [x] `completed` - 140 - RegExp Quantifiers Part 1
+- [x] `completed` - 141 - RegExp Quantifiers Part 2
+- [x] `completed` - 142 - RegExp Quantifiers Part 3
+- [x] `completed` - 143 - Replace With The RegExp Pattern
+- [x] `completed` - 144 - Form Validation Practice
+- [x] `completed` - 145 - Test Your RegExp And Discussions
+- [x] `completed` - 146 - RegExp Challenge
 
 ### Object Oriented Programming
 
-- [x] `completed - 147 - Object Oriented Programming Introduction
-- [x] `completed - 148 - Constructor Function Introduction
-- [x] `completed - 149 - Constructor Function New Syntax
-- [x] `completed - 150 - Constructor Function Deal With Properties & Methods
-- [x] `completed - 151 - Constructor Function Update Properties & Built In Constructors
-- [x] `completed - 152 - Class Static Properties And Methods
-- [ ] - 153 - Class Inheritance
-- [ ] - 154 - Class Encapsulation & Private Properties
-- [ ] - 155 - Prototype Introduction
-- [ ] - 156 - Add To Prototype Chain & Extend Constructors Features
-- [ ] - 157 - Object Meta Data And Descriptor Part 1
-- [ ] - 158 - Object Meta Data And Descriptor Part 2
+- [x] `completed` - 147 - Object Oriented Programming Introduction
+- [x] `completed` - 148 - Constructor Function Introduction
+- [x] `completed` - 149 - Constructor Function New Syntax
+- [x] `completed` - 150 - Constructor Function Deal With Properties & Methods
+- [x] `completed` - 151 - Constructor Function Update Properties & Built In Constructors
+- [x] `completed` - 152 - Class Static Properties And Methods
+- [x] `completed` - 153 - Class Inheritance
+- [x] `completed` - 154 - Class Encapsulation & Private Properties
+- [x] `completed` - 155 - Prototype Introduction
+- [x] `completed` - 156 - Add To Prototype Chain & Extend Constructors Features
+- [x] `completed` - 157 - Object Meta Data And Descriptor Part 1
+- [x] `completed` - 158 - Object Meta Data And Descriptor Part 2
 
 ### Date, Time, Generators And Modules
 
