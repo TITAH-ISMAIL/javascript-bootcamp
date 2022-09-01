@@ -210,16 +210,16 @@
 
 ## Date, Time, Generators And Modules
 
-- [ ] - 159 - Date And Time Introduction
-- [ ] - 160 - Get Date And Time
-- [ ] - 161 - Set Date And Time
-- [ ] - 162 - Formatting Date And Time
-- [ ] - 163 - Tracking Operations Time
-- [ ] - 164 - Generators Function Introduction
-- [ ] - 165 - Delegate Generators
-- [ ] - 166 - Generate Infinite Numbers
-- [ ] - 167 - Modules Import and Export
-- [ ] - 168 - Named vs Default Export And Import All
+- [x] `completed` - 159 - Date And Time Introduction
+- [x] `completed` - 160 - Get Date And Time
+- [x] `completed` - 161 - Set Date And Time
+- [x] `completed` - 162 - Formatting Date And Time
+- [x] `completed` - 163 - Tracking Operations Time
+- [x] `completed` - 164 - Generators Function Introduction
+- [x] `completed` - 165 - Delegate Generators
+- [x] `completed` - 166 - Generate Infinite Numbers
+- [x] `completed` - 167 - Modules Import and Export
+- [x] `completed` - 168 - Named vs Default Export And Import All
 
 ## Asynchronous Programming And JSON And AJAX
 
