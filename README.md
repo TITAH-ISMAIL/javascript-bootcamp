@@ -3,7 +3,7 @@
 
 # JavaScript Bootcamp Content [ 188 Videos ]
 
-![100%](https://progress-bar.dev/84/?title=Progress)
+![100%](https://progress-bar.dev/95/?title=Progress)
 
 ## Introduction
 
