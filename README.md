@@ -3,7 +3,7 @@
 
 # JavaScript Bootcamp Content [ 188 Videos ]
 
-![100%](https://progress-bar.dev/95/?title=Progress)
+![100%](https://progress-bar.dev/100/?title=Completed)
 
 ## Introduction
 
@@ -232,18 +232,18 @@
 - [x] `completed` - 175 - Event Loop, Callback Queue
 - [x] `completed` - 176 - What Is AJAX And Network Information
 - [x] `completed` - 177 - Request And Response From Real API
-- [ ] - 178 - Loop On Data
+- [x] `completed` - 178 - Loop On Data
 
 ## Promises And API's And Training's
 
-- [ ] - 179 - Callback Hell Or Pyramid Of Doom
-- [ ] - 180 - Promise Intro And Syntax
-- [ ] - 181 - Promise Then And Catch And Finally
-- [ ] - 182 - Promise And XHR 
-- [ ] - 183 - Fetch API
-- [ ] - 184 - Promise All And AllSettled And Race
-- [ ] - 185 - Async And Trainings
-- [ ] - 186 - Await
-- [ ] - 187 - Try, Catch, Finally With Fetch
-- [ ] - 188 - The End And Advices
+- [x] `completed` - 179 - Callback Hell Or Pyramid Of Doom
+- [x] `completed` - 180 - Promise Intro And Syntax
+- [x] `completed` - 181 - Promise Then And Catch And Finally
+- [x] `completed` - 182 - Promise And XHR 
+- [x] `completed` - 183 - Fetch API
+- [x] `completed` - 184 - Promise All And AllSettled And Race
+- [x] `completed` - 185 - Async And Trainings
+- [x] `completed` - 186 - Await
+- [x] `completed` - 187 - Try, Catch, Finally With Fetch
+- [x] `completed` - 188 - The End And Advices
 # End JavaScript Bootcamp
